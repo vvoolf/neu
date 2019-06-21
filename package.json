@@ -1,0 +1,19 @@
+{
+  "name": "neu",
+  "version": "1.0.0",
+  "description": "sandboxing",
+  "main": "index.js",
+  "scripts": {
+    "test": "git repository: (https://github.com/vvoolf/neu.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvoolf/neu.git"
+  },
+  "author": "Tamasine <contact.tamasine@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vvoolf/neu/issues"
+  },
+  "homepage": "https://github.com/vvoolf/neu#readme"
+}
